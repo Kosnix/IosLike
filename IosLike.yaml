@@ -1,0 +1,6 @@
+AddonId: IOSLike_0d5db835-7d88-4817-a5bf-01f4e7ed8289
+Packages:
+  - Version: 1.0.0
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-10-03
+    PackageUrl: https://github.com/Kosnix/PlayniteLike/releases/download/1.0.0/PlayniteLike.1.0.0.pthm
