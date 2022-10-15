@@ -8,3 +8,9 @@ Packages:
     RequiredApiVersion: 2.3.0
     ReleaseDate: 2022-10-03
     PackageUrl: https://github.com/Kosnix/IosLike/releases/download/1.0.1/IOSLike.1.01.pthm
+  - Version: 1.0.2
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-10-15
+    PackageUrl: https://github.com/Kosnix/IosLike/releases/download/1.0.2/IOSLike.1.0.2.pthm
+    Changelog:
+      - The format of the covers adapts to those predefined in the parameters of playnite and are no longer necessarily square
